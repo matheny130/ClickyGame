@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.a5a104cf.css",
-  "main.css.map": "static/css/main.a5a104cf.css.map",
-  "main.js": "static/js/main.14fdead6.js",
-  "main.js.map": "static/js/main.14fdead6.js.map",
+  "main.css": "static/css/main.e8bbe49b.css",
+  "main.css.map": "static/css/main.e8bbe49b.css.map",
+  "main.js": "static/js/main.5a6a1244.js",
+  "main.js.map": "static/js/main.5a6a1244.js.map",
   "static\\media\\cat1.jpg": "static/media/cat1.4e54f4dd.jpg",
   "static\\media\\cat10.jpg": "static/media/cat10.b4fe7460.jpg",
   "static\\media\\cat11.jpg": "static/media/cat11.dcd52e8e.jpg",
@@ -11,5 +11,7 @@
   "static\\media\\cat5.jpg": "static/media/cat5.b56ebf7f.jpg",
   "static\\media\\cat7.jpg": "static/media/cat7.1b14e3ef.jpg",
   "static\\media\\cat8.jpg": "static/media/cat8.050a2b5f.jpg",
-  "static\\media\\cat9.jpg": "static/media/cat9.34ac87a9.jpg"
+  "static\\media\\cat9.jpg": "static/media/cat9.34ac87a9.jpg",
+  "static\\media\\leopard.jpg": "static/media/leopard.854a5b13.jpg",
+  "static\\media\\tiger.jpg": "static/media/tiger.9d92a00f.jpg"
 }
