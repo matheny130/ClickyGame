@@ -9,11 +9,11 @@ This is a memory game using React.
 
 The app will render 12 different kitties to the screen. Click on one and the kitties rearrange randomly. Don't click the same kitty twice!
 
-![Kitty Clicky Game](./img/catgame.jpg)
+![Kitty Clicky Game](./public/img/catgame.jpg)
 
 The app will keep track of your score. Your score will reset to 0 if you click the same kitty twice and the game will restart.
 
-![Game in Progress](./img/catgame2.jpg)
+![Game in Progress](./public/img/catgame2.jpg)
 
 
 ## Technologies used

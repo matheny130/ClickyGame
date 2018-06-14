@@ -1,5 +1,5 @@
 .header{
-	background-image: url("/img/leopard.jpg");
+	background-image: url("./public/img/leopard.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;

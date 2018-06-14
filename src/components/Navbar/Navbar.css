@@ -16,7 +16,7 @@
 }
 
 .navbar {
-  background-image: url("/img/tiger.jpg");
+  background-image: url("./public/img/tiger.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;
