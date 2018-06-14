@@ -16,13 +16,24 @@
 }
 
 .navbar {
-  background: #050c49;
+  background-image: url("/img/tiger.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    text-align: center;
+    vertical-align: center;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  height: 95px;
 }
 
 li {
   color: white;
-  padding: 15px 0;
+  padding: 25px 0;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 body {

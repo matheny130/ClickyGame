@@ -1,4 +1,3 @@
-//sets up the reusable Navbar component
 import React, { Component } from "react";
 import "./Navbar.css";
 
