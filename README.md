@@ -12,6 +12,7 @@ The app will render 12 different kitties to the screen. Click on one and the kit
 ![Kitty Clicky Game](./src/images/catgame.jpg)
 
 The app will keep track of your score. Your score will reset to 0 if you click the same kitty twice and the game will restart.
+
 ![Game in Progress](./src/images/catgame2.jpg)
 
 
